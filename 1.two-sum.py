@@ -6,6 +6,7 @@
 
 
 # @lc code=start
+#  Time: O(n), space: O(nlogn), n = length of nums
 class Solution(object):
     def twoSum(self, nums, target):
         """
