@@ -1,0 +1,10 @@
+---
+extends: default
+rules:
+  line-length:
+    level: warning
+    allow-non-breakable-words: true
+  indentation:
+    spaces: 2
+    indent-sequences: true
+ignore: |-
